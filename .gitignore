@@ -1,2 +1,5 @@
 __pycache__
 *.pyc
+px/proto/*_pb2.py
+px/proto/*_pb2_grpc.py
+data/
